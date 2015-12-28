@@ -1,0 +1,28 @@
+name: Vinifera Wines and Ales
+favicon: null
+layout_spectrum: 0.8245453606359661
+typography_spectrum: 0.8349743476137519
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.47110377601347864
+  lightness: 0.640440751099959
+  saturation: 0.6472753789275885
+  rhythmicContrast: 0.607561360578984
+purpose: []

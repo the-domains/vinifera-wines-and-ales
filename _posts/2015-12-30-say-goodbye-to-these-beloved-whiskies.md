@@ -25,12 +25,12 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.eater.com/drinks/2015/12/29/10659946/extinct-whiskies-2015'
 title: Say Goodbye to These Beloved Whiskies
-datePublished: '2015-12-30T17:14:19.840Z'
-dateModified: '2015-12-30T17:14:03.191Z'
+datePublished: '2016-01-27T22:57:09.713Z'
+dateModified: '2016-01-27T22:57:06.211Z'
 inFeed: true
 hasPage: false
 inNav: false
-starred: true
+starred: false
 authors: []
 sourcePath: _posts/2015-12-30-say-goodbye-to-these-beloved-whiskies.md
 published: true
